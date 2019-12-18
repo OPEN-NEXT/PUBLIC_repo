@@ -23,4 +23,4 @@ Task management within "Projects" is used as follows:
   3. assign label - low, medium, high priority
   4. move to correct column - backlog, todo, etc.
   5. if needed, set milestone
-  6. use description field for #updates, #details, or #requirements in that order
+  6. use description field for #updates, #objectives, #results, #requirements, etc.
